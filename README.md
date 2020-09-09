@@ -1,3 +1,3 @@
-# ParallelxDesign
+# ParallelexDesign
 
-### Single page Website using Parallalex Effect 
+### Single page Website front end design using Parallalex Effect 
